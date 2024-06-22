@@ -27,7 +27,8 @@ https://create.roblox.com/store/asset/18158004153
 
 ## ライセンス
 
-このプロジェクトはMITライセンスのもとでGitHubで公開されています。
+このプロジェクトはMITライセンスのもとで公開されています。
+
 https://github.com/shinjiesk/roblox-plugin-array
 
-バグ報告や機能リクエストは、GitHubのIssueトラッカーを使用してください。プルリクエストも歓迎します。
+バグ報告や機能リクエストは、Issueトラッカーを使用してください。プルリクエストも歓迎します。
